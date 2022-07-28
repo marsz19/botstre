@@ -1,0 +1,22 @@
+{
+   "sessionName": "ramlanid",
+   "ownerNumber": "6281933225481@s.whatsapp.net",
+   "ownerName": "MarselStore",
+   "botName": "MarsZxY BotsZ",
+   "footer": "MarsZxY BotsZ © 2022",
+   "butName": "Youtube",
+   "butLink": "https://youtube.com/",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "pathQris": "./temp/qris1.jpg",
+   "mess": {
+    "wait": "*sedang diproses!*",
+    "error": "*kesalahan!*",
+    "OnlyGrup": "Gunakan Fitur Ini di grup",
+    "OnlyPM": "Gunakan Fitur Ini di private message",
+    "GrupAdmin": "Lu Siapa?Admin Aja Bukan Fitur Ini Cuma Bisa Di Pake Oleh Admin",
+    "BotAdmin": "Jadikan Bot Sebagai Admin Terlebih Dahulu",
+    "OnlyOwner": "So A6 Lu Bukan Owner Gua",
+    "OnlyPrem": "Mau Paket Fitur Ini Ya?Kamu Harus Premium Dulu"
+   }
+}
